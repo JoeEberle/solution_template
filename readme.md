@@ -1,10 +1,12 @@
-# solution name  -  solution description 
+# Diagrams - A repository for diagrams such as workflow diagrams.
 
 ![Code Logo](code.png)
 
 ## Description
 
-Welcome to the solution - an example  for your projects
+Welcome to the solution Diagrams - an example for your projects
+
+A repository for diagrams such as workflow diagrams.
 
 
 ## Features
@@ -28,7 +30,7 @@ Welcome to the solution - an example  for your projects
 
 ## Getting Started
 
-To get started with the solution, follow these steps:
+To get started with the Diagrams solution, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
@@ -36,9 +38,3 @@ To get started with the solution, follow these steps:
 4. Run the notebook and your find your most Critical Data - EASY !
 
 ![Code Logo](developer.png)
-
- 
-
-
-
-
